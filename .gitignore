@@ -1,0 +1,27 @@
+# API keys and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda
+.conda/
+
+# Generated audio and transcription files
+_pieces/
+
+# macOS
+.DS_Store
+# Original audio files
+*.m4a
+
+# Audio processing files
+_pieces/
