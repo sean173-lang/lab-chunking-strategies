@@ -24,4 +24,6 @@ _pieces/
 *.m4a
 
 # Audio processing files
-_pieces/
+_pieces/*.mp3
+
+*.mp3

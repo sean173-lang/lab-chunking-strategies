@@ -1,0 +1,33 @@
+QUERY: What are the seven requirements for trustworthy AI?
+MATCHING CHUNKS: 17
+
+TOP RETRIEVED EVIDENCE:
+
+PDF CHUNK 219 | SCORE 2
+24 
+ 
+Key guidance derived from Chapter II: 
+ Ensure that the AI system’s entire life cycle meets the seven key requirements for Trustworthy AI: (1) 
+human agency and oversight, (2) technical robustness and safety, (3) privacy and data g overnance, (4) 
+transparency, (5) diversity, non-discrimination and fairness, (6) environmental and s ocietal well-being and 
+(7) accountability.  
+ Consider technical and non-technical methods to ensure the implementation of those requirements.
+
+PDF CHUNK 128 | SCORE 2
+they are upheld.  
+The below list of requirements is non-exhaustive.35  It includes systemic, individual and societal aspects:  
+1 Human agency and oversight 
+Including fundamental rights, human agency and human oversight  
+2 Technical robustness and safety  
+Including resilience to attack and security, fall back plan and general safety, accuracy, reliability and 
+reproducibility  
+3 Privacy and data governance  
+Including respect for privacy, quality and integrity of data, and access to data
+
+PDF CHUNK 14 | SCORE 2
+implementation.  
+Key guidance derived from Chapter II: 
+ Ensure that the development, deployment and use of AI systems meets the seven key requirements for 
+Trustworthy AI: (1) human agency and o versight, (2) technical robustness and s afety, (3) privacy and data 
+governance, (4) transparency, (5) diversity, non-discrimination and fairness, (6) environmental and societal 
+well-being and (7) accountability.
